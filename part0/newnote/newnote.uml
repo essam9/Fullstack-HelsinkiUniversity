@@ -24,3 +24,7 @@ end note
 
 browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
 server-->browser: [...,{ content: "user input", date: "2022-05-23" }]
+
+note over browser:
+browser displays new note
+end note
