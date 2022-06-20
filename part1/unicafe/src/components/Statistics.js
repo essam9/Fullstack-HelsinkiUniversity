@@ -1,5 +1,5 @@
 import Part from './Part'
-import Header from './Header'
+//import Header from './Header'
 import StatisticLine from './StatisticsLine'
 
 const Statistics = (props) => {
